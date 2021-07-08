@@ -3,8 +3,7 @@
  * This file contains code that runs on load for index.html
  
 Author : Michellia G. Herman
- ID     : 31837409
- Desc   : This file contains the function that will be run when we load the main page of the Digital Locker System.
+Desc   : This file contains the function that will be run when we load the main page of the Digital Locker System.
  */
 "use strict";
 // TODO: Write the function displayLockers
