@@ -3,7 +3,6 @@
  * This file contains shared code that runs on both view.html and index.html
  
  Author : Michellia G. Herman
- ID     : 31837409
  Desc   : This file contains the function that can be used and accessed by the other .js file.
  */
 
