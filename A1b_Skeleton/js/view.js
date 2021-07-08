@@ -3,7 +3,6 @@
  * This file contains code that runs on load for view.html
  
  Author : Michellia G. Herman
- ID     : 31837409
  Desc   : This file contains the function that will display the value of every attributes in the current locker.
  */
 
